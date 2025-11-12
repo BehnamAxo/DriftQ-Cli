@@ -43,4 +43,5 @@ driftq lag orders --group demo
 - Output JSON via `--json` when needed
 
 ## License
-Apache 2.0
+
+Apache 2.0 — see `LICENSE`.
